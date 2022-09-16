@@ -94,7 +94,7 @@
     "editorCodeLens.foreground": "#aaa",
     "editorCursor.foreground": "#ffc600",
     "editorError.border": "#0d3a58",
-    "editorError.foreground": "#A22929",
+    "editorError.background": "#A22929",
     // gutter
     "editorGutter.background": "#12273866",
     "editorGutter.addedBackground": "#3C9F4A",
